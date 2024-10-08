@@ -47,7 +47,7 @@ Welcome one and all to the most disorganized mass of potentially useful but incr
 - https://www.youtube.com/watch?v=Nw3F-EZ8duU - Ophcrack for us Mac users ;)
 
 ## Web
-https://www.codingame.com/playgrounds/154/sql-injection-demo/sql-injection - Good for learning SQL injection
+- https://www.codingame.com/playgrounds/154/sql-injection-demo/sql-injection - Good for learning SQL injection
 
 ## Crypto (just baby crypto, nothing like overllama's stuff)
 - https://gchq.github.io/CyberChef/ - Ultimate cipher tool
